@@ -179,11 +179,10 @@ globallyE
  Build athlete prediction models using repeat performer patterns to optimize early-stage talent pipelinesE
  Sporting Evolution Monitoring 
  Conduct separate trend tracking for newly added Olympic sports to monitor disruption to legacy patterns.
+ 
 🔗 Project Links
-
-Interactive Tableau Dashboard: https://public.tableau.com/app/profile/rahul.kumar1277/viz/SupplyChainPerformanceAnalyticsforGlamourGlowCosmeticsproject/Dashboard4?publish=yes
-
-GitHub Repository: https://github.com/rkk0903/Supply-Chain-Performance-Analytics-for-GlamourGlow-Cosmetics-project
+Interactive Tableau Dashboard: https://public.tableau.com/app/profile/rahul.kumar1277/viz/PROJECTTABLEAUOLYMPICS/Dashboard1?publish=yes
+GitHub Repository: https://github.com/rkk0903/Analysis-of-Olympic-Medal-Trends
 
 👨‍💻 Author
 
