@@ -150,3 +150,41 @@ Gender
 
 Medal Type
 
+Key Analytical Findings 
+
+Country Performanc:
+< The USA holds the highest cumulative medal countk
+< China and Australia showed sharp upward trends in the late 20th century. 
+
+Athlete Excellenc:
+< A handful of athletes have won medals across 2–4 Olympic editionsk
+< Many stars dominate only one discipline, indicating specialization. 
+
+Gender Dynamic,
+< The Olympics remained male-heavy until the late 20th centuryk
+< Women’s representation is now approaching parity in some sports.
+Java + DSA Pwskills
+Sport DominancI
+Q Athletics, Aquatics, and Gymnastics account for the lion’s share of medalsE
+Q Newer sports entering the Olympics may alter future patterns. 
+
+ Strategic RecommendationZ
+! Investment Strategy for Countries 
+ Prioritize training in high-medal-density sports (e.g., Swimming, Track & Field). Analyze cost-per-medal
+metrics to optimize ROIE
+ Gender Equity Roadmap 
+ IOC should continue enforcing minimum gender participation quotas and promoting women's events
+globallyE
+ Talent Identification Models 
+ Build athlete prediction models using repeat performer patterns to optimize early-stage talent pipelinesE
+ Sporting Evolution Monitoring 
+ Conduct separate trend tracking for newly added Olympic sports to monitor disruption to legacy patterns.
+🔗 Project Links
+
+Interactive Tableau Dashboard: https://public.tableau.com/app/profile/rahul.kumar1277/viz/SupplyChainPerformanceAnalyticsforGlamourGlowCosmeticsproject/Dashboard4?publish=yes
+
+GitHub Repository: https://github.com/rkk0903/Supply-Chain-Performance-Analytics-for-GlamourGlow-Cosmetics-project
+
+👨‍💻 Author
+
+Rahul kumar 📧 LinkedIn URL- https://www.linkedin.com/in/rahul-kumar-345660303/ 📍 Data Analytics | Business Intelligence | Tableau | SQL | Excel | Python | Power bi
